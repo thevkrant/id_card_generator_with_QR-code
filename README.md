@@ -7,8 +7,7 @@
 This is a Python application to generate the `ID card` with it's `QR-Code`.
 
 ### Prerequisites
-`Python 3`
-`qrcode`
+`Python 3` `qrcode` `datetime` `random` `PIL`
 
 ### Usage
 Execute 
