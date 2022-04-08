@@ -10,8 +10,8 @@ This is a Python application to generate the `ID card` with it's `QR-Code`.
 ### Prerequisites
 `Python 3` `qrcode` `datetime` `random` `PIL`
 
-### Install Libraries
-```
+### Install Required Libraries
+```powershell
 pip install Pillow
 pip install qrcode
 pip install DateTime
@@ -21,19 +21,6 @@ pip install random2
 ### Usage
 Execute 
 > python AmicableNumbers.py
-
-### Python Script
-```python3
-def isfibo(n):
-    fib_a = 0
-    fib_b = 1
-    while fib_a < n:
-        fib_a, fib_b = fib_b, fib_a + fib_b
-    if (fib_a == n):
-        return("IsFibo")
-    else:
-        return("IsNotFibo")
-```
 
 ## *Author Name*
 [Vikrant](https://github.com/vikrant-v28)
