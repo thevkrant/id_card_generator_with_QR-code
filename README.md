@@ -13,7 +13,7 @@ This is a Python application to generate the `ID card` with it's `QR-Code`.
 Execute 
 > python AmicableNumbers.py
 
-### Source Code
+### Python Script
 ```python3
 def isfibo(n):
     fib_a = 0
