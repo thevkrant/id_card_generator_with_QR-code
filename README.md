@@ -4,17 +4,14 @@
 
 <h1 align="center">ID card generator with QR-Code using Python</h1>
 
-From the list of interview questions asked during datascience interviews. The infamous question is about checking whether the number is a Fibonacci number or not.
-
-A Fibonacci sequence is the integer sequence of 0, 1, 1, 2, 3, 5, 8....
-The first two terms are 0 and 1. All other terms are obtained by adding the preceding two terms. This means to say the nth term is the sum of (n-1)th and (n-2)th term.
-
-* In a nutshell
-
-"The Fibonacci sequence is a series of numbers in which each number is the sum of the two that precede it."
+This is a Python application to generate the `ID card` with it's `QR-Code`.
 
 ### Prerequisites
 `Python 3`
+
+### Usage
+Execute 
+> python AmicableNumbers.py
 
 ### Source Code
 ```python3
