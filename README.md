@@ -20,7 +20,7 @@ pip install random2
 
 ### Usage
 Execute 
-> python AmicableNumbers.py
+> python id_QR_Code.py
 
 ### Output
 <p align="center">
