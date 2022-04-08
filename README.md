@@ -2,7 +2,7 @@
   <img height="60" src="https://user-images.githubusercontent.com/85709371/156916372-d8c1bbdd-5fe9-40d1-a250-5a1d4d454832.png">
 </div>
 
-<h1 align="center">Check whether the number is a Fibonacci number or not.</h1>
+<h1 align="center"></h1>
 
 From the list of interview questions asked during datascience interviews. The infamous question is about checking whether the number is a Fibonacci number or not.
 
