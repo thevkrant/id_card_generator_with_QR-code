@@ -4,10 +4,14 @@
 
 <h1 align="center">ID card generator with QR-Code using Python</h1>
 
+### Description
 This is a Python application to generate the `ID card` with it's `QR-Code`.
 
 ### Prerequisites
 `Python 3` `qrcode` `datetime` `random` `PIL`
+
+### Install Libraries
+```python3
 
 ### Usage
 Execute 
