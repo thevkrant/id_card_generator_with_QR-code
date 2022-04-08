@@ -8,6 +8,7 @@ This is a Python application to generate the `ID card` with it's `QR-Code`.
 
 ### Prerequisites
 `Python 3`
+`qrcode`
 
 ### Usage
 Execute 
