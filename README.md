@@ -22,5 +22,10 @@ pip install random2
 Execute 
 > python AmicableNumbers.py
 
+### Output
+<p align="center">
+  <a href="Output/code.png"><img src="https://user-images.githubusercontent.com/85709371/162192616-40730f01-a7d4-483a-8ede-10305be2fb68.png" alt="output"></a>
+</p>
+
 ## *Author Name*
-[Vikrant](https://github.com/vikrant-v28)
+[Vikrant](https://github.com/thevkrant)
