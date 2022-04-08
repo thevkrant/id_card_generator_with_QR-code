@@ -24,7 +24,7 @@ Execute
 
 ### Output
 <p align="center">
-  <a href="Output/code.png"><img src="" alt="output"></a>
+  <a href="Output/code.png"><img src="https://user-images.githubusercontent.com/85709371/162384613-53c37299-44f0-4746-b31b-af8acb30d60e.png" alt="output"></a>
 </p>
 
 ## *Author Name*
