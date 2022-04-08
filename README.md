@@ -11,7 +11,12 @@ This is a Python application to generate the `ID card` with it's `QR-Code`.
 `Python 3` `qrcode` `datetime` `random` `PIL`
 
 ### Install Libraries
-```python3
+```
+pip install Pillow
+pip install qrcode
+pip install DateTime
+pip install random2
+```
 
 ### Usage
 Execute 
